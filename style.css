@@ -1,0 +1,13 @@
+/*
+Theme Name: italyfood
+Theme URI: coffeewp.com
+Description: coffee theme develop for the first time
+Requires at least: 5.3
+Tested up to: 6.0
+Requires PHP:6.1.1
+Version: 1.0
+Text Domain: italyfood
+*/
+.wrap-col .box-item img {
+    height: 250px !important;
+}
